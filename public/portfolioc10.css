@@ -34,7 +34,7 @@ div.bio {
   margin: 0;
 }
 p.bio-text {
-  padding: 10em;
+  padding: 0 10em 0 10em;
   margin: 0;
 }
 div.resume {
