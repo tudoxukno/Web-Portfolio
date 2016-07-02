@@ -33,6 +33,9 @@ div.bio {
   height: 600px;
   margin: 0;
 }
+p.bio-text {
+  padding: 10em;
+}
 div.resume {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6f/b9/86/6fb9863626801cbd61aa474503be909c.jpg");
   height: 600px;
