@@ -30,7 +30,6 @@ div.first-background {
 }
 div.bio {
   background-image: url("http://static.vecteezy.com/system/resources/previews/000/093/716/original/grey-marble-texture-background-vector-free.jpg");
-  height: 600px;
   margin: 0;
 }
 p.bio-text {
@@ -39,7 +38,6 @@ p.bio-text {
 }
 div.resume {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6f/b9/86/6fb9863626801cbd61aa474503be909c.jpg");
-  height: 600px;
   margin: 0;
   }
 
