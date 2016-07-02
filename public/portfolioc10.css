@@ -24,6 +24,9 @@ h2 {
   height: 50px;
   background-color: #ABB2B9;
 }
+li {
+  display: inline;
+}
 div.first-background {
   background-image: url("http://3.bp.blogspot.com/-CSz6d4tvM7U/U_Rw8S81KZI/AAAAAAAAkWU/YlkpHak8n2k/s1600/Screen%2BShot%2B2014-08-20%2Bat%2B5.54.47%2BAM.png");
   margin: 0;
