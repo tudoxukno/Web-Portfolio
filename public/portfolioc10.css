@@ -31,6 +31,8 @@ div.first-background {
 div.bio {
   background-image: url("http://static.vecteezy.com/system/resources/previews/000/093/716/original/grey-marble-texture-background-vector-free.jpg");
   height: 600px;
+  width: 60em;
+  padding: 3em;
   margin: 0;
 }
 div.resume {
