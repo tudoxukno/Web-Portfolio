@@ -12,6 +12,7 @@ src: url('RAILWAY THIN.TTF'); }
 h2 {
   font-family: Raleway;
   text-align: center;
+  margin: 0;
 }
 .fixed-nav-bar {
   position: fixed;
