@@ -35,6 +35,7 @@ div.bio {
 }
 p.bio-text {
   padding: 10em;
+  margin: 0;
 }
 div.resume {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6f/b9/86/6fb9863626801cbd61aa474503be909c.jpg");
