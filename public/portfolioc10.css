@@ -13,9 +13,14 @@ h2 {
   font-family: Raleway;
   text-align: center;
 }
-div.navigation-bar {
-  background-color: #ABB2B9;
-  height: 4em;
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  color: #ABB2B9;
 }
 div.first-background {
   background-image: url("http://3.bp.blogspot.com/-CSz6d4tvM7U/U_Rw8S81KZI/AAAAAAAAkWU/YlkpHak8n2k/s1600/Screen%2BShot%2B2014-08-20%2Bat%2B5.54.47%2BAM.png");
@@ -40,5 +45,5 @@ text-shadow:
 }
 .img-circle {
   border-radius: 50%;
-  background-color: transparent;
+
 }
