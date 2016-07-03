@@ -36,14 +36,17 @@ div.first-background {
 div.bio {
   background-image: url("http://static.vecteezy.com/system/resources/previews/000/093/716/original/grey-marble-texture-background-vector-free.jpg");
   margin: 0;
+  padding: 100px 0;
 }
 p.bio-text {
   padding: 2em 10em 2em 10em;
   margin: 0;
+
 }
 div.resume {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6f/b9/86/6fb9863626801cbd61aa474503be909c.jpg");
   margin: 0;
+  padding: 100px 0;
 }
 p.resume-text {
   padding: 2em 10em 2em 10em;
