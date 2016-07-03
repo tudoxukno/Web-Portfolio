@@ -5,6 +5,7 @@ h1 {
   text-align: center;
   color: #00d9a3;
   font-size: 60px;
+  margin: 0;
   }
 
 @font-face { font-family: Raleway;
