@@ -52,6 +52,14 @@ p.resume-text {
   padding: 2em 10em 2em 10em;
   margin: 0;
 }
+div.social-media {
+  background-image: url("http://bgfons.com/upload/marble_texture1803.jpg");
+  margin: 0;
+}
+.id {
+  padding: 2em 10em 2em 10em;
+  margin: 0;
+}
 
 body {
   margin: 0;
